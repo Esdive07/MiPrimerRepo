@@ -5,3 +5,6 @@ git add archivo.txt-->agrega cambios especificos
 git status--> visualiza cambios(rojo pendiene, verde guadados)
 ctrl+L -->Limpia pantalla
 git commit -m "Mensaje de los cambios"
+git log--> fecha y hora de commit
+git push origin master-->subir los cambios al origen
+git pull origin master-->bajar los cambios del origen
