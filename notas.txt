@@ -8,3 +8,4 @@ git commit -m "Mensaje de los cambios"
 git log--> fecha y hora de commit
 git push origin master-->subir los cambios al origen
 git pull origin master-->bajar los cambios del origen
+git clone ruta de la web(code)--> clonarlo que esta en la nube al local(mi pc)
