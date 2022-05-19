@@ -3,3 +3,5 @@ git init-> crea repositosio local
 git add . --> agrega todos los cambios  
 git add archivo.txt-->agrega cambios especificos
 git status--> visualiza cambios(rojo pendiene, verde guadados)
+ctrl+L -->Limpia pantalla
+git commit -m "Mensaje de los cambios"
